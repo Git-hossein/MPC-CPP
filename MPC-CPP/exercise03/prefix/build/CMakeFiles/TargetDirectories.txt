@@ -1,0 +1,3 @@
+/home/sherkath/Downloads/exercise03/prefix/build/CMakeFiles/testPrefix.dir
+/home/sherkath/Downloads/exercise03/prefix/build/CMakeFiles/edit_cache.dir
+/home/sherkath/Downloads/exercise03/prefix/build/CMakeFiles/rebuild_cache.dir

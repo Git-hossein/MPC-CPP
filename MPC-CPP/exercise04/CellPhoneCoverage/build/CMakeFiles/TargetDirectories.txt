@@ -1,0 +1,3 @@
+/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build/CMakeFiles/CellPhoneCoverage.dir
+/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build/CMakeFiles/edit_cache.dir
+/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build/CMakeFiles/rebuild_cache.dir

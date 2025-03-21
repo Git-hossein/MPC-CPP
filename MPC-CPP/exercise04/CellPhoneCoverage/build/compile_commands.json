@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build",
+  "command": "/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/bin/nvcc -forward-unknown-to-host-compiler  -Xptxas=-v -G -g -g -std=c++11 \"--generate-code=arch=compute_61,code=[compute_61,sm_61]\" \"--generate-code=arch=compute_75,code=[compute_75,sm_75]\" -x cu -c /home/sherkath/Downloads/exercise04/CellPhoneCoverage/CellPhoneCoverage.cu -o CMakeFiles/CellPhoneCoverage.dir/CellPhoneCoverage.cu.o",
+  "file": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/CellPhoneCoverage.cu",
+  "output": "CMakeFiles/CellPhoneCoverage.dir/CellPhoneCoverage.cu.o"
+},
+{
+  "directory": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build",
+  "command": "/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/bin/nvcc -forward-unknown-to-host-compiler  -Xptxas=-v -G -g -g -std=c++11 \"--generate-code=arch=compute_61,code=[compute_61,sm_61]\" \"--generate-code=arch=compute_75,code=[compute_75,sm_75]\" -x cu -c /home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsCuda.cu -o CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsCuda.cu.o",
+  "file": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsCuda.cu",
+  "output": "CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsCuda.cu.o"
+},
+{
+  "directory": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build",
+  "command": "/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/bin/nvcc -forward-unknown-to-host-compiler  -Xptxas=-v -G -g -g -std=c++11 \"--generate-code=arch=compute_61,code=[compute_61,sm_61]\" \"--generate-code=arch=compute_75,code=[compute_75,sm_75]\" -x cu -c /home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsSortedCuda.cu -o CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsSortedCuda.cu.o",
+  "file": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsSortedCuda.cu",
+  "output": "CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsSortedCuda.cu.o"
+},
+{
+  "directory": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/build",
+  "command": "/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/bin/nvcc -forward-unknown-to-host-compiler  -Xptxas=-v -G -g -g -std=c++11 \"--generate-code=arch=compute_61,code=[compute_61,sm_61]\" \"--generate-code=arch=compute_75,code=[compute_75,sm_75]\" -x cu -c /home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsCpu.cu -o CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsCpu.cu.o",
+  "file": "/home/sherkath/Downloads/exercise04/CellPhoneCoverage/SignalStrengthsCpu.cu",
+  "output": "CMakeFiles/CellPhoneCoverage.dir/SignalStrengthsCpu.cu.o"
+}
+]
